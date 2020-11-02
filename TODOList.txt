@@ -1,0 +1,34 @@
+Goal - Undesrstand computers better to enhance my dream product
+
+TODO: 
+	<Circuits>
+		- Complete reading chapter 3,4, and 6,9
+	<Machine Learning>
+		- Complete the exercise before class 
+	<Extra>
+		  - Alumni Panel
+		  - Sign up to get advised for next semester
+		  - FAFSA
+-----------------------------------------
+
+M-	Read EE chpaters | EE class @ 3 p.m | work on ML
+
+
+T-	Work on ML | ML class @ 3 p.m | work on EE
+
+
+W-	Read EE chpaters | EE class @ 3 p.m | work on ML
+
+
+R-	work on ML | ML class @ 3 p.m | work on EE
+
+
+F-	Work on ML and EE | 2 Sumi Office Hrs | 3 Felipe Office Hrs 
+
+
+Sa- 	12-3 ML	| 3:10 - 6 EE | 8-12 EE 
+
+
+Su- 	12-3 ML	| 3:10 - 6 EE | 8-12 EE
+
+
