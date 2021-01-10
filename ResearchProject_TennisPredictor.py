@@ -158,7 +158,6 @@ if __name__ == "__main__":
     #Extract features into X and y
     X,y = extractFeatures(allMatches)
     
-    
     #split and train the data
     
     
