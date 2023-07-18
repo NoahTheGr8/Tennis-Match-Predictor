@@ -1,1 +1,5 @@
-# Tennis-Match-Predictor
+![Paper](./NoahVelasco_TMP_paper_images/NoahVelasco_TMP_paper-1.png)
+![Paper](./NoahVelasco_TMP_paper_images/NoahVelasco_TMP_paper-2.png)
+![Paper](./NoahVelasco_TMP_paper_images/NoahVelasco_TMP_paper-3.png)
+![Paper](./NoahVelasco_TMP_paper_images/NoahVelasco_TMP_paper-4.png)
+![Paper](./NoahVelasco_TMP_paper_images/NoahVelasco_TMP_paper-5.png)
